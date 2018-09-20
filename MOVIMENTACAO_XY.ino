@@ -1,3 +1,4 @@
+//ARQUIVO: MOVIMENTACAO XY.INO
 #include <AccelStepper.h>
 int velocidade_motor = 600; //400
 int aceleracao_motor = 20000; //20000
